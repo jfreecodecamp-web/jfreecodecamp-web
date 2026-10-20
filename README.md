@@ -1,8 +1,8 @@
 # Javel Swaby
 
-**IT Support Professional · Building Web Applications and Interactive Browser Projects**
+**IT Support Professional · Web Applications · Business Workflow Prototypes**
 
-I bring a practical troubleshooting and user-support perspective to software development. My portfolio focuses on a Django academic management application and browser games built with JavaScript, HTML, and CSS.
+I bring a practical troubleshooting and user-support perspective to software development. My portfolio includes a Django academic management application, documentation for the ServiceFlow service desk prototype, and browser games built with JavaScript, HTML, and CSS.
 
 I am developing my software engineering skills and pursuing programming and application development opportunities.
 
@@ -17,6 +17,18 @@ A school workflow application with separate teacher and student dashboards, Post
 **Explore:** [Source and setup](https://github.com/jfreecodecamp-web/student-academic-portal) · [Administrator manual](https://github.com/jfreecodecamp-web/student-academic-portal/blob/main/docs/Student_Academic_Portal_Admin_Setup_Manual.pdf) · [User manual](https://github.com/jfreecodecamp-web/student-academic-portal/blob/main/docs/Student_Academic_Portal_Visual_User_Manual_v2.pdf)
 
 ![Student Academic Portal dashboard](https://raw.githubusercontent.com/jfreecodecamp-web/student-academic-portal/main/screenshots/student-dashboard.png)
+
+## Service desk workflow project
+
+### [ServiceFlow — Service Desk Prototype](https://github.com/jfreecodecamp-web/jfreecodecamp-web/tree/main/projects/serviceflow)
+
+A portfolio prototype exploring incident intake, support-group assignment, status and priority filters, and team workload visibility.
+
+The project documentation sets out group-specific ticket access, administrator visibility, scoped search, red reply-count badges, and closed-ticket reply restrictions. It includes a role matrix and proposed acceptance checks.
+
+**Status:** Overview and requirements are published here; application source code and local setup instructions are pending publication.
+
+**Explore:** [Project overview, requirements, and acceptance checks](https://github.com/jfreecodecamp-web/jfreecodecamp-web/blob/main/projects/serviceflow/README.md)
 
 ## Other projects
 
@@ -33,6 +45,7 @@ Each repository includes setup instructions, implementation details, screenshots
 - **Web applications:** Python, Django, PostgreSQL, Django ORM
 - **Browser development:** JavaScript, HTML5, CSS3, Canvas API
 - **Development workflow:** Git, GitHub, debugging, and user documentation
+- **Workflow documentation:** Role matrices, functional requirements, and proposed acceptance checks
 
 ## What I bring
 
